@@ -1,0 +1,14 @@
+##modul 7
+
+#nomer 4
+jumlah atribut yang bertipe binomial = 4 yaitu (Gender, Asal_Sekolah,Asisten,Lama_Studi)
+jumlah atribut yang bertipe polynomial = 1 yaitu (Jurusan_SMA)
+
+#nomer5
+jumlah atribut yang bertipe real = 1 yaitu (Rerata_SKS)
+
+#nomer 6
+max = 23
+min = 16
+mean = 18.95
+tdDev= 1.669
